@@ -1,12 +1,12 @@
 [
     {
-        "role": "MinnoxMilo",
-        "name": "List Owner",
+        "role": "List Owner",
+        "name": "MinnoxMilo",
         "link": "https://www.youtube.com/@JoedyjrjXMinnoxmilo"
     },
     {
-        "role": "Theorangeamongus",
-        "name": "List Admin",
+        "role": "List Admin",
+        "name": "Theorangeamongus",
         "link": "https://www.youtube.com/@Theorangeamongus"
     },
     {
@@ -20,8 +20,8 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Theorangeamongus",
-        "name": "List Coder",
+        "role": "dev",
+        "name": "Theorangeamongus",
         "link": "https://www.youtube.com/@Theorangeamongus"
     }
 ]
