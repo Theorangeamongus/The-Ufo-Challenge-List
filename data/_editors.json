@@ -1,11 +1,11 @@
 [
     {
-        "role": "List Owner",
+        "role": "owner",
         "name": "MinnoxMilo",
         "link": "https://www.youtube.com/@JoedyjrjXMinnoxmilo"
     },
     {
-        "role": "List Admin",
+        "role": "admin",
         "name": "Theorangeamongus",
         "link": "https://www.youtube.com/@Theorangeamongus"
     },
